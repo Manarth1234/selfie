@@ -1,0 +1,29 @@
+#camera {
+    width: 100px;
+    height: 100px;
+    border: solid black;
+}
+
+# result1 {
+    border-color: black;
+    border-style: solid;
+}
+# result2 {
+    border-color: black;
+    border-style: solid;
+}
+# result3 {
+    border-color: black;
+    border-style: solid;
+    width: 50%;
+}
+
+#result1 hover {
+    border-radius: 15px;
+}
+#result2 hover {
+    border-radius: 15px;
+}
+#result3 hover {
+    border-radius: 15px;
+}
